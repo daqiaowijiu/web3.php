@@ -18,13 +18,13 @@ Set minimum stability to dev
 
 Then
 ```
-composer require fenguoz/web3.php dev-master
+composer require daqiaowijiu/web3.php dev-master
 ```
 
 Or you can add this line in composer.json
 
 ```
-"fenguoz/web3.php": "dev-master"
+"daqiaowijiu/web3.php": "dev-master"
 ```
 
 
@@ -279,17 +279,3 @@ Move the extension config from `/usr/local/etc/php/conf.d/`
 ```
 mv /usr/local/etc/php/conf.d/extension-config-name to/directory
 ```
-
-# API
-
-Todo.
-
-# Contribution
-
-Thank you to all the people who already contributed to web3.php!
-<a href="https://github.com/web3p/web3.php/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=web3p/web3.php" />
-</a>
-
-# License
-MIT
